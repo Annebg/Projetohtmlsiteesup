@@ -1,0 +1,39 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+header{
+    color: rgb(1, 1, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 12px;         
+}
+
+header > p {
+text-align: justify;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: none;
+}
+
+nav {
+    padding: 50px 10px 50px 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.897);        
+}
+
+main > ul {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    columns: 1
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    font-size: medium;
+    padding: 30px;
+}
